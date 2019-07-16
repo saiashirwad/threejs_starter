@@ -1,0 +1,22 @@
+{
+  "name": "threejs_starter",
+  "version": "1.0.0",
+  "description": "A simple THREE.js starter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiashirwad/threejs_starter.git"
+  },
+  "author": "Sai Ashirwad R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saiashirwad/threejs_starter/issues"
+  },
+  "homepage": "https://github.com/saiashirwad/threejs_starter#readme",
+  "dependencies": {
+    "three": "^0.106.2"
+  }
+}
